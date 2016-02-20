@@ -1,0 +1,28 @@
+\ProvidesPackage{mystyle}
+%--------packages----------------------------------------------
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+% \usepackage{tikz}
+\usepackage{lmodern}          %latin modern fonts
+
+\usepackage{graphicx}
+\usepackage{tabularx}
+
+%\usepackage{subfig}
+
+\usepackage{microtype}
+\usepackage{booktabs}          %professional tables
+%\usepackage{listings}
+\usepackage{caption}
+\usepackage[pdfauthor={Li Quan},%
+pdftitle={Academic Search},%
+pagebackref=false,%
+pdftex]{hyperref}
+
+
+%-------------------------------------------------------------
+
+%\graphicspath{{./img/}}
+%\renewcommand*\familydefault{\sfdefault}
+\captionsetup{labelfont=bf,format=hang} %change appearance of captions
+

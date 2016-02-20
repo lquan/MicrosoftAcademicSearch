@@ -1,0 +1,37 @@
+\begin{thebibliography}{1}
+
+\bibitem{googlescholarranking}
+{\sc Beel, J., and Gipp, B.}
+\newblock Google {Scholar's} ranking algorithm: An introductory overview.
+\newblock In {\em Proceedings of the 12th International Conference on
+  Scientometrics and Informetrics (ISS'09)\/} (July 2009), vol.~1,
+  pp.~230--241.
+
+\bibitem{ttp}
+{\sc Easton, K., Nemhauser, G., and Trick, M.}
+\newblock The traveling tournament problem description and benchmarks.
+\newblock In {\em Principles and Practice of Constraint Programming — CP
+  2001}, T.~Walsh, Ed., vol.~2239 of {\em Lecture Notes in Computer Science}.
+  Springer Berlin / Heidelberg, 2001, pp.~580--584.
+\newblock 10.1007/3-540-45578-7\_43.
+
+\bibitem{pros}
+{\sc Jacs{\'o}, P.}
+\newblock {Google Scholar: the pros and the cons}.
+\newblock In {\em Online Information Review\/} (2005), vol.~29, Emerald Group
+  Publishing, pp.~208--214.
+
+\bibitem{objectlevel}
+{\sc {Nie}, Z., Wen, J., and Ma, W.}
+\newblock Object-level vertical search.
+\newblock In {\em Conference on Innovative Data Systems Research\/} (2007),
+  pp.~235--246.
+
+\bibitem{wang}
+{\sc Wang, Y., Jiang, M., Wang, X., and Zhou, A.}
+\newblock Knowledge discovery from academic search engine.
+\newblock In {\em Proceedings of the 3rd International Conference on Knowledge
+  Science, Engineering and Management\/} (Berlin, Heidelberg, 2009), KSEM '09,
+  Springer-Verlag, pp.~158--167.
+
+\end{thebibliography}
